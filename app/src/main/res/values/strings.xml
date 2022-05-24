@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tples42kotlin</string>
+    <string name="send_custom_broadcast">Send Custom Broadcast</string>
+    <string name="action_headset_plug_off">Гарнитура выключена</string>
+    <string name="action_headset_plug_on">Гарнитура включена</string>
+    <string name="action_power_disconnected">Power disconnected!</string>
+    <string name="action_power_connected">Power connected!</string>
+    <string name="unknown_intent_action">unknown intent action</string>
+</resources>
